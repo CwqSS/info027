@@ -1,0 +1,7 @@
+Olá,
+
+Esta seção é somente sobre exercícios de estrutura sequencial, não podendo ser usadas estruturas de seleção ou de repetição.
+
+Assuma que as entradas serão fornecidas corretamente.
+
+Fim.
