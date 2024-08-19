@@ -1,7 +1,8 @@
 #include <stdio.h>
 #define TAM 512
 
-
+// Existe um jeito mais correto de realizar essa questão
+// utilizando um vetor para os digitos romanos e outro para os valores
 
 int main()
 {
