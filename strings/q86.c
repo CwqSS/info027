@@ -81,7 +81,7 @@ int main()
         {
             proxNumero = 1000;
         }
-        else if (caracter == '\0')
+        else if (proxCaracter == '\0')
         {
             proxNumero = 0;
         }
