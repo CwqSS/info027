@@ -33,9 +33,9 @@ int main()
         for(jCont = 0; jCont < TAM; jCont++)
             aux += matriz[iCont][jCont];
         if(aux > frequencia)
-            frequencia = iCont + 18;
+            frequencia = iCont;
     }
-    frequenciaHomem = frequencia;
+    frequenciaHomem = frequencia + 18;
     
     for(jCont = 0; jCont < TAM; jCont++)
     {
@@ -43,9 +43,9 @@ int main()
         for(iCont = 0; iCont < TAM; iCont++)
             aux += matriz[iCont][jCont];
         if(aux > frequencia)
-            frequencia = jCont + 18;
+            frequencia = jCont;
     }
-    frequenciaMulher = frequencia;
+    frequenciaMulher = frequencia + 18;
     
     frequencia = 0;
     for(iCont = 0; iCont < TAM; iCont++)
