@@ -37,6 +37,7 @@ int main()
     }
     frequenciaHomem = frequencia + 18;
     
+    frequencia = 0;
     for(jCont = 0; jCont < TAM; jCont++)
     {
         aux = 0;
